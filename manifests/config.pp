@@ -1,0 +1,3 @@
+class opendj::config {
+
+}
