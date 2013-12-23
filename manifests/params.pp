@@ -1,0 +1,3 @@
+class opendj::params {
+
+}

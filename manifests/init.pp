@@ -1,3 +1,3 @@
 class opendj {
-  include opendj::install, opendj::config
+  include opendj::params, opendj::install, opendj::config
 }
